@@ -4,7 +4,7 @@
 local waitTime = _G.WaitTime
 
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/iiX0Lords/Building/main/GlobalFunction"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Requicked/redwoodscripts2/refs/heads/main/GlobalFunction.lua"),true))()
 
 waitTime = 0.1
 
