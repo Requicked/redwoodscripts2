@@ -1,4 +1,4 @@
-local Dependencies = loadstring(game:HttpGet(("https://raw.githubusercontent.com/iiX0Lords/Building/main/Dependency1"),true))()
+local Dependencies = loadstring(game:HttpGet(("https://raw.githubusercontent.com/Requicked/redwoodscripts2/refs/heads/main/Dependencies1.lua"),true))()
 
 local tc = tick()
 
